@@ -1,0 +1,24 @@
+
+Chases-MacBook-Pro:~ albritton$ mvn archetype:generate
+-DgroupId={com.sssas.SSSAS}
+-DartifactId={SSSAS}
+-DarchetypeArtifactId=maven-archetype-quickstart
+-DinteractiveMode=false
+
+mvn archetype:generate
+-DgroupId={com.sssas.SSSAS}
+-DartifactId={SSSAS}
+-DarchetypeArtifactId=maven-archetype-quickstart
+-DinteractiveMode=false
+
+
+
+
+
+
+
+
+
+
+
+

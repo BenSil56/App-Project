@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SSSAS/MyDayViewController.swift"
+            timestampString = "587908387.206669"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MyDayViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SSSAS.MyDayViewController.profilePic.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "SSSAS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albritton/Desktop/swift/SSSAS/SSSAS/MyDayViewController.swift"
+                  timestampString = "600269541.1296231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SSSAS.MyDayViewController.profilePic.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "SSSAS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albritton/Desktop/swift/SSSAS/SSSAS/MyDayViewController.swift"
+                  timestampString = "600269541.1336271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SSSAS.MyDayViewController.profilePic.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "SSSAS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albritton/Desktop/swift/SSSAS/SSSAS/MyDayViewController.swift"
+                  timestampString = "600269541.136023"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SSSAS.MyDayViewController.profilePic.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SSSAS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albritton/Desktop/swift/SSSAS/SSSAS/MyDayViewController.swift"
+                  timestampString = "600269541.138728"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SSSAS.MyDayViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SSSAS.MyDayViewController"
+                  moduleName = "SSSAS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albritton/Desktop/swift/SSSAS/SSSAS/MyDayViewController.swift"
+                  timestampString = "600269541.141209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SSSAS.MyDayViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SSSAS.MyDayViewController&gt;"
+                  moduleName = "SSSAS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albritton/Desktop/swift/SSSAS/SSSAS/MyDayViewController.swift"
+                  timestampString = "600269541.1428421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
